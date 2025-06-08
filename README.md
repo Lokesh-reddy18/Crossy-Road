@@ -21,4 +21,4 @@ A 3D game where you control a chicken crossing the road while avoiding vehicles.
 
 ## Play
 
-Open `index.html` in your web browser to start playing! 
+Open `index.html` in your web browser to start playing!!! 
